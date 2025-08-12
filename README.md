@@ -58,7 +58,7 @@ This project is an **e-commerce product listing web application** developed usin
 
 ---
 
-## 🛠 Technical Explanation
+## Technical Explanation
 
 ### Components
 - **App.jsx** – Main routing & layout
@@ -112,27 +112,26 @@ useEffect(() => {
 
 ---
 
-## 📷 Screenshots
+## Screenshots
 
-*(Add your actual screenshots here)*
 
-###1. Home Page – Desktop View
+1. Home Page – Desktop View
 ![Home Desktop View](images/Homescreen.png)
-###2. Home Page – Mobile View 
+2. Home Page – Mobile View 
 ![Home Mobile View](images/mobile1.png)
 ![Home Mobile View](images/mobile2.png)
-###3. Category Filter Applied
+3. Category Filter Applied
 ![Category Filter Applied](images/sorting.png)
 ![Category Filter Applied](images/price.png)
-###4. Search in Action
+4. Search in Action
 ![Search in Action](images/search1.png)
 ![Search in Action](images/search2.png)
-###5. Product Detail Page
+5. Product Detail Page
 ![Product Detail Page](images/prodetail.png)
 
 ---
 
-##References
+## References
 
 * [Fake Store API](https://fakestoreapi.com/)
 * [React.js Documentation](https://react.dev/)
@@ -147,5 +146,3 @@ useEffect(() => {
 
 **Chowdam Tarun Kumar**
 Frontend Developer | React.js Enthusiast
-
-```
