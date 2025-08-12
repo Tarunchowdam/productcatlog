@@ -23,7 +23,7 @@ export default function Topbar({
           <p className="brand-sub"> Product Listing</p>
         </div>
 
-        {/* Hamburger for mobile */}
+        {/* TOgglemenu for mobile */}
         <button
           className="menu-toggle"
           onClick={() => setMenuOpen((prev) => !prev)}
