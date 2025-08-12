@@ -1,4 +1,3 @@
-```
 # E-Commerce Product Listing Application
 
 ##  Internship Assignment – Frontend Development
@@ -129,7 +128,7 @@ useEffect(() => {
 ![Search in Action](images/search1.png)
 ![Search in Action](images/search2.png)
 ###5. Product Detail Page
-![Product Detail Page](images/Prodetail.png)
+![Product Detail Page](images/prodetail.png)
 
 ---
 
