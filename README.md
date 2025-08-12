@@ -13,6 +13,10 @@ This project is an **e-commerce product listing web application** developed usin
 - Modular, reusable React components
 
 ---
+## Live Demo
+[Live Demo](https://ecommerce-productlisting.netlify.app/)
+
+---
 
 ## Methodology
 
@@ -129,7 +133,6 @@ useEffect(() => {
 ### 5. Product Detail Page
 ![Product Detail Page](images/prodetail.png)
 
----
 
 ## References
 
@@ -138,11 +141,10 @@ useEffect(() => {
 * [MDN CSS Media Queries](https://developer.mozilla.org/en-US/docs/Web/CSS/Media_Queries/Using_media_queries)
 * [Flexbox & Grid Layout – MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout)
 
----
 
----
 
 ##  Author
 
-**Chowdam Tarun Kumar**
+Chowdam Tarun Kumar
+
 Frontend Developer | React.js Enthusiast
